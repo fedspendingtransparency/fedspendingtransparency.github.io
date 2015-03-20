@@ -1,16 +1,16 @@
 #document settings
-title: Federal Spending Transparency 
-desc: "Open Data Policy — Managing Information as an Asset"
-url: //project-open-data.github.io/
-repo_name: project-open-data.github.io
+title: Federal Spending Transparency
+desc: "DATA Act Collaboration Space"
+url: //fedspendingtransparency.github.io/
+repo_name: fedspendingtransparency.github.io
 branch: master
 
 #global settings, no need to change these
-root_url: //project-open-data.github.io
-org_name: project-open-data
+root_url: //fedspendingtransparency.github.io
+org_name: fedspendingtransparency
 
 # default build settings for running locally, no need to edit
 pymgemnts: true
-exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile", "Rakefile", "readme.md"]
+exclude: ["script", "vendor", "Gemfile", "Gemfile.lock", "config.ru", "Procfile", "Rakefile", "readme.md", "LICENSE"]
 markdown: kramdown
 relative_permalinks: false
