@@ -58,6 +58,10 @@ Would you like more information about a specific data element? Browse our select
  - [Outlay](whitepapers/outlay/)
  - [Awardee/Recipient Unique Identifier, Awardee/Recipient Legal Business Name, Ultimate Parent Identifier Number, Ultimate Parent Legal Business Name](whitepapers/unique-id-business-name/)
  - [Unobligated Balance](whitepapers/unobligated-balance/)
+ - [Funding Sub Tier Agency](/whitepapers/fundingsubtieragency/)
+ - [Funding Agency](/whitepapers/fundingagency/)
+ - [Period of Performance](/whitepapers/periodofperformance/)
+ - [CFDA Program Number_Title](/whitepapers/cfdaprogramnumber-title/)
  - More materials coming soon
 
 ##Recent News and Events
