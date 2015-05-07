@@ -55,24 +55,24 @@ This list includes information about recipients and awardees of federal funds. P
     <td><a href="https://github.com/fedspendingtransparency/fedspendingtransparency.github.io/issues/45" title="recipient parent legal business name">leave feedback (closes 5/15/15)</a></td>
   </tr>
   <tr>
-    <td>Legal Business Address</td>
+    <td><a href="/whitepapers/entity-address/" title="entity address whitepaper">Legal Business Address</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td><a href="">leave feedback</a></td>
   </tr>
   <tr>
-    <td>Legal Business Congressional District</td>
+    <td><a href="/whitepapers/entity-address/" title="entity address whitepaper">Legal Business Congressional District</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td><a href="">leave feedback</a></td>
   </tr>
   <tr>
-    <td>Legal Business Country Code</td>
+    <td><a href="/whitepapers/entity-address/" title="entity address whitepaper">Legal Business Country Code</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td><a href="">leave feedback</a></td>
   </tr>
   <tr>
-    <td>Legal Business Country Name</td>
+    <td><a href="/whitepapers/entity-address/" title="entity address whitepaper">Legal Business Country Name</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td><a href="">leave feedback</a></td>
   </tr>
   <tr>
     <td><a href="/whitepapers/highlycompensatedofficers/" title="Top 5 Highly Compensated Officers whitepaper">Top 5 Highly Compensated Officer Names</a></td>
@@ -100,27 +100,27 @@ This list includes elements used to describe the amount (value) of a certain awa
     </tr>
   </thead>
   <tr>
-    <td>Funding Action Obligation</td>
+    <td><a href="/whitepapers/amount/" title="Amounts whitepaper">Funding Action Obligation</a></td>
     <td>FFATA</td>
     <td>feedback period opens soon</td>
   </tr>
   <tr>
-    <td>Non-federal Funding Amount</td>
+    <td><a href="/whitepapers/amount/" title="Amounts whitepaper">Non-federal Funding Amount</a></td>
     <td>FFATA</td>
     <td>feedback period opens soon</td>
   </tr>
   <tr>
-    <td>Current Total Funding Obligation Amount on Award</td>
+    <td><a href="/whitepapers/amount/" title="Amounts whitepaper">Current Total Funding Obligation Amount on Award</a></td>
     <td>FFATA</td>
     <td>feedback period opens soon</td>
   </tr>
   <tr>
-    <td>Current Total Value of Award</td>
+    <td><a href="/whitepapers/amount/" title="Amounts whitepaper">Current Total Value of Award</a></td>
     <td>FFATA</td>
     <td>feedback period opens soon</td>
   </tr>
   <tr>
-    <td>Potential Total Value of Award</td>
+    <td><a href="/whitepapers/amount/" title="Amounts whitepaper">Potential Total Value of Award</a></td>
     <td>FFATA</td>
     <td>feedback period opens soon</td>
   </tr>
@@ -140,9 +140,9 @@ These elements describe the different characteristics each award possesses – f
     </tr>
   </thead>
   <tr>
-    <td>Type of Transaction Code</td>
+    <td><a href="/whitepapers/type-transaction-code/" title="Type of Transaction Code whitepaper">Type of Transaction Code</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
     <tr>
     <td><a href="/whitepapers/naics/" title="North American Industrial Classification System whitepaper">North American Industrial Classification System (NAICS) Code</a></td>
@@ -155,99 +155,99 @@ These elements describe the different characteristics each award possesses – f
     <td><a href="https://github.com/fedspendingtransparency/fedspendingtransparency.github.io/issues/13" title="feedback for North American Industrial Classification System Description">feedback period closed</a></td>
   </tr>
   <tr>
-    <td>Catalog of Federal Domestic Assistance (CFDA) Number</td>
+    <td><a href="/whitepapers/cfdaprogramnumber-title/" title="CFDA Program Number_Title whitepaper">Catalog of Federal Domestic Assistance (CFDA) Number</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Catalog of Federal Domestic Assistance (CFDA) Title</td>
+    <td><a href="/whitepapers/cfdaprogramnumber-title/" title="CFDA Program Number_Title whitepaper">Catalog of Federal Domestic Assistance (CFDA) Title</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
     <td><a href="/whitepapers/approp-agency-tas/" title="Treasury Account Symbol, Agency, and Appropriations Fund whitepaper">Treasury Account Symbol (excluding Sub-Account)</a></td>
     <td>FFATA</td>
-    <td><a href="https://github.com/fedspendingtransparency/fedspendingtransparency.github.io/issues/32" title="Leave feedback">feedback period closed</a></td>
+    <td><a href="https://github.com/fedspendingtransparency/fedspendingtransparency.github.io/issues/32" title="feedback">feedback period closed</a></td>
   </tr>
   <tr>
-    <td>Award Description</td>
+    <td><a href="/whitepapers/award-id-description/" title="Award ID and Description whitepaper">Award Description</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td><a href="">leave feedback</a></td>
   </tr>
   <tr>
-    <td>Award ID Modification/Amendment</td>
+    <td><a href="/whitepapers/award-id-description/" title="Award ID and Description whitepaper">Award ID Modification/Amendment</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td><a href="">leave feedback</a></td>
   </tr>
   <tr>
-    <td>Parent Award ID</td>
+    <td><a href="/whitepapers/award-id-description/" title="Award ID and Description whitepaper">Parent Award ID</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td><a href="">leave feedback</a></td>
   </tr>
   <tr>
-    <td>Action Date</td>
+    <td><a href="/whitepapers/period-of-performance/" title="Period of Performance whitepaper">Action Date</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Period of Performance Start Date</td>
+    <td><a href="/whitepapers/period-of-performance/" title="Period of Performance whitepaper">Period of Performance Start Date</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Period of Performance Current End Date</td>
+    <td><a href="/whitepapers/period-of-performance/" title="Period of Performance whitepaper">Period of Performance Current End Date</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Period of Performance Potential End Date</td>
+    <td><a href="/whitepapers/period-of-performance/" title="Period of Performance whitepaper">Period of Performance Potential End Date</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Ordering Period End Date</td>
+    <td><a href="/whitepapers/period-of-performance/" title="Period of Performance whitepaper">Ordering Period End Date</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Primary Place of Performance Address</td>
+    <td><a href="/whitepapers/place-of-performance/" title="Place of Performance whitepaper">Primary Place of Performance Address</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Primary Place of Performance Congressional District</td>
+    <td><a href="/whitepapers/place-of-performance/" title="Place of Performance whitepaper">Primary Place of Performance Congressional District</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Primary Place of Performance Country Code</td>
+    <td><a href="/whitepapers/place-of-performance/" title="Place of Performance whitepaper">Primary Place of Performance Country Code</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Primary Place of Performance Country Name</td>
+    <td><a href="/whitepapers/place-of-performance/" title="Place of Performance whitepaper">Primary Place of Performance Country Name</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Award ID</td>
-    <td>DATA Act</td>
-    <td>feedback period opens soon</td>
-  </tr>
-  <tr>
-    <td>Record Type</td>
+    <td><a href="/whitepapers/award-id-description/" title="Award ID and Description whitepaper">Award ID</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Type of Action</td>
+    <td><a href="/whitepapers/type-transaction-code/" title="Type of Transaction Code whitepaper">Record Type</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Business Type</td>
+    <td><a href="/whitepapers/type-transaction-code/" title="Type of Transaction Code whitepaper">Type of Action</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
+  </tr>
+  <tr>
+    <td><a href="/whitepapers/business-type/" title="Business Type whitepaper">Business Type</a></td>
+    <td>FFATA</td>
+    <td>leave feedback</td>
   </tr>
 </table>
 
@@ -265,34 +265,34 @@ These data elements describe characteristics of the entity that provided funding
     </tr>
   </thead>
   <tr>
-    <td>Agency Name</td>
+    <td><a href="/whitepapers/fundingagency/" title="Funding Agency Name whitepaper">Funding Agency Name</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Agency Code</td>
+    <td><a href="/whitepapers/fundingagency/" title="Funding Agency Name whitepaper">Funding Agency Code</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Sub Tier Agency Name</td>
+    <td><a href="/whitepapers/funding-sub-tier-agency/" title="Funding Sub Tier Agency Name whitepaper">Funding Sub Tier Agency Name</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Sub Tier Agency Code</td>
+    <td><a href="/whitepapers/funding-sub-tier-agency/" title="Funding Sub Tier Agency Name whitepaper">Funding Sub Tier Agency Code</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Office Name</td>
+    <td><a href="/whitepapers/funding-sub-tier-agency/" title="Funding Sub Tier Agency Name whitepaper">Funding Office Name</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Office Code</td>
+    <td><a href="/whitepapers/funding-sub-tier-agency/" title="Funding Sub Tier Agency Name whitepaper">Funding Office Code</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
 </table>
 
@@ -320,24 +320,24 @@ Elements on this list describe awarding entities – those that presented the aw
     <td><a href="https://github.com/fedspendingtransparency/fedspendingtransparency.github.io/issues/32" title="Leave feedback">feedback period closed</a></td>
   </tr>
   <tr>
-    <td>Awarding Sub Tier Agency Name</td>
+    <td><a href="/whitepapers/awarding-sub-tier-agency/" title="Awarding Sub Tier Agency and Office whitepaper">Awarding Sub Tier Agency Name</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Awarding Sub Tier Agency Code</td>
+    <td><a href="/whitepapers/awarding-sub-tier-agency/" title="Awarding Sub Tier Agency and Office whitepaper">Awarding Sub Tier Agency Code</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Awarding Office Name</td>
+    <td><a href="/whitepapers/awarding-sub-tier-agency/" title="Awarding Sub Tier Agency and Office whitepaper">Awarding Office Name</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
   <tr>
-    <td>Awarding Office Code</td>
+    <td><a href="/whitepapers/awarding-sub-tier-agency/" title="Awarding Sub Tier Agency and Office whitepaper">Awarding Office Code</a></td>
     <td>FFATA</td>
-    <td>feedback period opens soon</td>
+    <td>leave feedback</td>
   </tr>
 </table>
 
@@ -377,7 +377,7 @@ This list features elements that describe the accounts from which the awards are
   <tr>
     <td><a href="/whitepapers/unobligated-balance/" title="Unobligated balance whitepaper">Unobligated Balance</a></td>
     <td>DATA Act</td>
-    <td><a href="https://github.com/fedspendingtransparency/fedspendingtransparency.github.io/issues/51" title="Leave feedback for Unobligated balance">leave feedback (closes 5/5/15)</a></td>
+    <td><a href="https://github.com/fedspendingtransparency/fedspendingtransparency.github.io/issues/51" title="feedback for Unobligated balance">feedback period closed</a></td>
   </tr>
   <tr>
     <td><a href="/whitepapers/ba-appropriated-other-resources/" title="Budget Authority Amount and Other Budgetary Resources whitepaper">Other Budgetary Resources</a></td>
