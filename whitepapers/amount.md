@@ -1,7 +1,7 @@
 ---
 published: true
 permalink: /whitepapers/amount/
-layout: hero
+layout: article
 filename: amount.md
 title: Amount
 ---
@@ -9,7 +9,7 @@ title: Amount
 # Element: Amount of Award, Federal Action Obligation, Non-Federal Funding Amount, Current Total Value of Award, and Potential Total Value of Award
 
 
-<table>
+<table class='table-bordered'>
   <thead>
     <tr>
       <th scope ="col">Data Element Name</th>
@@ -17,7 +17,7 @@ title: Amount
     </tr>
   </thead>
   <tr>
-    <td>Amout of Award</td>
+    <td>Amount of Award</td>
     <td>FFATA</td>
   </tr>
   <tr>
@@ -42,7 +42,7 @@ title: Amount
 
 Data elements related to amount are crucial to federal spending transparency and are important to many stakeholder groups, within and outside of the federal government. During the three week feedback period, 3 individuals and organizations provided feedback through GitHub, which is available [here](https://max.gov/datastandards), and OMB and Treasury received feedback from the Government Accountability Office (GAO). The majority of this input brought up questions about the context of these amounts (including which data elements are cumulative), the applicability of these data elements to procurement and financial assistance, and the sources of this information.
 
-In response to the feedback posted, the data element names and definitions have been revised to show more clearly which data elements are cumulative, which are only procurement or financial assistance, and how they are related. Through this process, some of the data element names have been adjusted. ‘Funding Obligation Amount on Award’ has been renamed ‘Federal Action Obligation’ and ‘Funding Action Obligation’ has been renamed ‘Amount of Award.’ The final data elements and definitions are posted [here](https://max.gov/datastandards). In addition to these data elements, [obligations](/whitepapers/obligation) for awards will also be reported by agencies from agency financial systems. This data element was previously standardized in May of this year and the final standard is [here](https://max.gov/datastandards).  
+In response to the feedback posted, the data element names and definitions have been revised to show more clearly which data elements are cumulative, which are only procurement or financial assistance, and how they are related. Through this process, some of the data element names have been adjusted. ‘Funding Obligation Amount on Award’ has been renamed ‘Federal Action Obligation’ and ‘Funding Action Obligation’ has been renamed ‘Amount of Award.’ The final data elements and definitions are posted [here](https://max.gov/datastandards). In addition to these data elements, [obligations]({{ site.baseurl }}/whitepapers/obligation) for awards will also be reported by agencies from agency financial systems. This data element was previously standardized in May of this year and the final standard is [here](https://max.gov/datastandards).  
 
 
 ##Background
@@ -89,7 +89,7 @@ The original source for *contract awards* was the Federal Procurement Data Syste
 2.  These definitions apply to reporting on federal awards that has taken place since enactment of FFATA.  OMB guidance issued in May 2015 directed agencies to include Award ID in agency financial systems as the way to associated award data and financial data without duplicating efforts or data.  As agencies implement these changes in FY 2017, a further review of the definition and standard for award amounts may be required.    
 
 ##Final Definitions for Transparency Reporting
-<table>
+<table class='table-bordered'>
   <thead>
     <tr>
       <th scope="col">Data Element Name</th>

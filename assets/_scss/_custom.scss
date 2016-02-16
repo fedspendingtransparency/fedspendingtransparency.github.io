@@ -1,0 +1,579 @@
+@import './common';
+.container {
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.btn {
+    border-radius: 0;
+    &:visited {
+        color: #fff;
+    }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.display-one,
+.display-two {
+    font-family: $font-sans;
+    margin: 1.5em 0 .5em;
+    -webkit-font-smoothing: antialiased;
+}
+
+.display-one {
+    font-weight: $font-bold;
+    font-size: 5.9rem;
+    line-height: 7.7rem;
+}
+
+.display-two {
+    font-weight: $font-light;
+    font-size: 4.4rem;
+    line-height: 5.7rem;
+}
+
+h1 {
+    font-weight: $font-light;
+    font-size: 4.4rem;
+    line-height: 5.7rem;
+}
+
+h2 {
+    font-weight: $font-light;
+    font-size: 3.4rem;
+    line-height: 4.4rem;
+}
+
+h3 {
+    font-weight: $font-bold;
+    font-size: 2.4rem;
+    line-height: 3.1rem;
+}
+
+h4 {
+    font-weight: $font-bold;
+    font-size: 1.9rem;
+    line-height: 1.3rem;
+}
+
+h5 {
+    font-weight: $font-bold;
+    font-size: 1.6rem;
+    line-height: 2.1rem;
+}
+
+h6 {
+    font-weight: $font-normal;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
+    text-transform: uppercase;
+}
+
+p.lead {
+    font-weight: $font-normal;
+    font-size: 2.2rem;
+    line-height: 3.3rem;
+}
+
+p.large {
+    font-weight: $font-normal;
+    font-size: 1.7rem;
+    line-height: 2.6rem;
+}
+
+@mixin para {
+    font-weight: $font-normal;
+    font-size: 1.6rem;
+    line-height: 2.5rem;
+    margin-bottom: 2.5rem;
+    color: #525252;
+}
+
+p {
+    @include para;
+}
+
+p.italic {
+    @include para;
+    font-style: italic;
+}
+
+ol,
+ul {
+    margin: 0 0 30px;
+    & li {
+        font-size: 1.6rem;
+        line-height: 2.5rem;
+        margin-bottom: 0.75em;
+        margin-top: 0.75em;
+    }
+}
+
+table + p {
+    margin-top: 3.0rem;
+}
+
+.panel {
+    border-radius: 0;
+    & p:first-child {
+        margin-top: 0;
+    }
+}
+
+
+/***** TABLE STYLES *****/
+
+table {
+    &.table,
+    &.table-bordered {
+        width: 100%;
+        & thead {
+            font-size: 1.4rem;
+            font-weight: $font-bold;
+            // min-height: 50px;
+            & tr {
+                & th {
+                    // height: 50px;
+                    padding: 15px;
+                    border-bottom: none;
+                }
+            }
+        }
+        & tbody {
+            & tr {
+                & td {
+                    padding: 15px;
+                    // min-height: 40px;
+                    font-size: 1.4rem;
+                    color: $color-gray;
+                }
+            }
+        }
+    }
+}
+
+table {
+    &.table-bordered {
+        & thead {
+            color: #fff;
+            background: $color-gray;
+        }
+    }
+}
+
+table {
+    &.table {
+        & thead {
+            border-bottom: 1px solid red;
+            color: #212121;
+            background: $color-gray-lightest;
+            & tr {
+                & th {
+                    border-bottom: none;
+                    vertical-align: middle;
+                }
+            }
+        }
+        & tbody {
+            & tr {
+                &:last-child {
+                    border-bottom: 1px solid #ddd;
+                }
+                & td {
+                    vertical-align: middle;
+                }
+            }
+        }
+    }
+}
+
+.alert {
+    color: #333 !important;
+    font-size: 1.4rem;
+    border-radius: 0;
+    position: relative;
+    margin: 40px 0 !important;
+    & h3 {
+        font-size: 2.4rem;
+        margin: 2px 0 8px 48px;
+    }
+    & p {
+        margin: 5px 0 5px 48px;
+    }
+    & .glyphicon {
+        font-size: 3.2rem;
+        position: absolute;
+        top: 15px;
+        left: 15px;
+    }
+}
+
+.alert-success {
+    background: #e7f4e4;
+    & .glyphicon {
+        color: #5cb85c;
+    }
+}
+
+.alert-info {
+    background: #e1f3f8;
+    & .glyphicon {
+        color: #5bc0de;
+    }
+}
+
+.alert-warning {
+    background: #fff1d2;
+    & .glyphicon {
+        color: #f0ad4e;
+    }
+}
+
+.alert-danger {
+    background: #f9dede;
+    & .glyphicon {
+        color: #d9534f;
+    }
+}
+
+.highlight {
+    background: #e9f27c;
+    padding: 3px;
+}
+
+
+/***** BUTTONS *****/
+
+.btn {
+    font-size: 1.2rem;
+    font-weight: $font-bold;
+    padding: 8px 16px;
+    border: none;
+    &.btn-lg {
+        padding: 14px 22px;
+        font-size: 1.6rem;
+        line-height: 1.3rem;
+        border-radius: 0;
+    }
+    &.btn-primary {
+        background: $color-primary;
+        &:active {
+            background: $color-primary-darker;
+        }
+        &:hover {
+            background: $color-primary-darkest;
+        }
+    }
+    &.btn-primary-alt {
+        background: $color-primary-alt;
+        color: #212121;
+        &:active {
+            background: $color-primary-alt-darkest;
+            color: #fff;
+        }
+        &:hover {
+            background: $color-primary-alt-dark;
+        }
+    }
+    &.btn-danger {
+        background: $color-secondary;
+        color: #fff;
+        &:active {
+            background: $color-secondary-darkest;
+            color: #fff;
+        }
+        &:hover {
+            background: $color-secondary-dark;
+        }
+    }
+    &.btn-default {
+        color: $color-primary;
+        box-shadow: inset 0 0 0 2px $color-primary;
+        &:active {
+            color: $color-primary-darkest;
+        }
+        &:hover {
+            background: $color-primary-alt-lightest;
+        }
+    }
+}
+
+
+/***** GLOBAL MARGIN AND PADDING *****/
+
+.mt-0 {
+    margin-top: 0px;
+}
+
+.mt-15 {
+    margin-top: 15px;
+}
+
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+
+/***** HOMEPAGE *****/
+
+.homepage {
+    & .usa-alert {
+        margin: 50px 0;
+    }
+    & .row p:last-child {
+        margin-bottom: 0;
+    }
+    @include media($x-small-screen) {
+        & .col-md-8 {
+            & p:last-child {
+                margin-bottom: 40px;
+            }
+        }
+    }
+    & .panel-container {
+        margin-top: 20px;
+        @include clearfix;
+        & .col-md-6 .panel {}
+    }
+    & .panel-heading h3 {
+        margin: 0;
+        font-weight: $font-bold;
+        font-size: 2.0rem;
+        line-height: 2.8rem;
+        color: #555
+    }
+    & .media {
+        margin-bottom: 30px;
+        &:last-child {
+            margin-bottom: 20px;
+        }
+        & p {
+            margin: 0 0 1em;
+        }
+        & .glyphicon {
+            width: 64px;
+            height: 64px;
+            font-size: 45px;
+            text-align: center;
+        }
+        & .usaspend-logo,
+        & .usaspend-openbeta-logo,
+        & .usability-icon {
+            display: block;
+            width: 64px;
+            height: 61px;
+            padding: 0 3px;
+            background-image: url('../img/graphic-sprite.png');
+            background-size: 290%;
+            background-position-x: 1px;
+        }
+        & .usaspend-openbeta-logo {
+            background-position-x: 126px;
+        }
+        & .usability-icon {
+            height: 40px;
+            background-size: 300%;
+            background-position-x: -127px;
+            background-position-y: -14px;
+        }
+    }
+}
+
+/***** ARTICLE PAGE *****/
+.article-wrap {
+    & p,
+    & ol,
+    & li {
+        max-width: 76rem;
+    }
+    & .get-involved-wrap {
+        display: flex;
+        -webkit-flex-flow: row wrap;
+        margin: 0 0 40px;
+        & .left-block {
+            @include flexbox;
+            flex-direction: column;
+            justify-content: center;
+            background: #ececec;
+            & .text-block {
+                & h3 {
+                    color: #444;
+                    margin: 0 0 0.5rem;
+                    font-size: 3.5rem;
+                    font-weight: 200;
+                    margin: 0 0 0.8rem;
+                    @include media($x-small-screen) {
+                        margin-top: 20px;
+                    }
+                }
+                & p {
+                    color: #444;
+                    font-size: 1.3rem;
+                    line-height: 1.7rem;
+                }
+            }
+        }
+        & .right-block {
+            flex: 1 auto;
+            order: 2;
+            border: 1px solid #ececec;
+            padding: 30px 20px;
+            & p:last-child {
+                margin-bottom: 0;
+            }
+        }
+    }
+    & .calendar-wrap {
+        border: 1px solid #ececec;
+        padding: 0 20px;
+        margin-bottom: 30px;
+        & h5{
+            line-height: 1.8rem;
+            margin-bottom: 0;
+        }
+        
+        & ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            & li {
+                line-height: 1.6rem;
+                font-size: 1.4rem;
+                &:last-child {
+                    margin-bottom: 3.0rem;
+                }
+                & a:hover {
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
+
+
+/***** BLOG PAGE *****/
+.blog {
+    & h2 {
+        & a {
+            color: #333;
+        }
+    }
+    & cite {
+        padding: 8px 5px 6px;
+        margin: 0 0 20px;
+        border-top: #ececec 1px solid;
+        border-bottom: #ececec 1px solid;
+        font-size: 1.2rem;
+        display: block;
+        color: $color-gray;
+    }
+}
+
+.blog-rail {
+    & ul {
+        margin: 80px 0 0;
+        list-style: none;
+        & li {
+            font-size: 1.4rem;
+            border-bottom: 1px solid #ececec;
+            padding: 10px 5px 10px;
+            &.active {
+                background: $color-gray-cool-light;
+            }
+        }
+    }
+}
+
+
+/***** TIMELINE *****/
+#timeline {
+    border-top: 1px solid #ccc;
+    width: 100%;
+    min-height: 400px;
+}
+
+// .tl-timemarker.tl-timemarker-active .tl-timemarker-content-container-small {
+//     background-color: $color-gray;
+// }
+
+// #issue-preliminary-guidance-initiate-pilots-marker.tl-timemarker.tl-timemarker-active > .tl-timemarker-content-container.tl-timemarker-content-container-small {
+//     background-color: red;
+// }
+
+// #example-of-an-event-spanning-over-time-marker.tl-timemarker.tl-timemarker-active > .tl-timemarker-content-container.tl-timemarker-content-container-small {
+//     background-color: blue;
+// }
+
+// .tl-timemarker.tl-timemarker-active .tl-timemarker-content-container .tl-timemarker-content .tl-timemarker-text h2.tl-headline {
+//     color: #fff
+// }
+
+// #agencies-required-to-submit-financial-dan-payment-data-marker {
+//     background: red;
+// }
+
+
+/***** DATA-ELEMENTS PAGE *****/
+.data-elements {
+    & table {
+        width: 100%;
+        & td:first-child {
+            width: 50%;
+        }
+        & td:last-child {
+            width: 25%;
+        }
+    }
+}
+
+/***** CHARTS *****/
+// #pieLegend, #doughnutLegend, #lineLegend {
+//     & ul{
+//     background: green;
+//         & li{
+//             display: block;
+//             float: left;
+//             & span{
+//                 display: block;
+//                 height: 10px;
+//                 width: 10px;
+
+//             }
+//         }
+//     }
+// }
+
+    .chart-legend {
+        & ul {
+            padding: 0;
+            & li {
+                display: block;
+                float: left;
+                margin: 0 20px 0 0;
+                & span {
+                    display: inline-block;
+                    width: 12px;
+                    height: 12px;
+                    margin-right: 4px;
+                }
+            }
+        }
+    }
+
+
+
+
+// li span{
+//     display: inline-block;
+//     width: 122px;
+//     height: 12px;
+//     margin-right: 5px;
+// }

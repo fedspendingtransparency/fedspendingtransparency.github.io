@@ -1,7 +1,7 @@
 ---
 published: true
 permalink: /whitepapers/outlay/
-layout: hero
+layout: article
 filename: outlay.md
 title: Outlay
 ---
@@ -10,7 +10,7 @@ title: Outlay
 
 Thank you for contributing your feedback on this data element—your input and insight was helpful as we worked to finalize the standards. Please go [here](https://max.gov/maxportal/assets/public/offm/DataStandardsFinal.htm "Federal Spending Transparency Standards") to see the data definitions for these elements in their final form.
 
-<table>
+<table class='table-bordered'>
   <thead>
     <tr>
       <th scope ="col">Data Element Name</th>
@@ -25,7 +25,7 @@ Thank you for contributing your feedback on this data element—your input and i
 
 ## Background
 
-The DATA Act requires agencies to report outlays by [program activity](/whitepapers/programactivity), [object class](/whitepapers/objectclass/), and program activity by object class for each of their congressionally created appropriations accounts.  Prior to the DATA Act, outlays on a government-wide basis have not been reported by program activity or object class.  However, OMB publishes outlays by appropriations account on Line 3020 of the SF 133 _Reports on Budget Execution and Budgetary Resources_.  Treasury publishes outlays in its _Treasury Combined Statement of Receipts, Outlays, and Balances of the United States Government_.  In addition, other publications show government-wide outlays (though not by appropriations account, program activity, or object class.)
+The DATA Act requires agencies to report outlays by [program activity]({{ site.baseurl }}/whitepapers/programactivity), [object class]({{ site.baseurl }}/whitepapers/objectclass/), and program activity by object class for each of their congressionally created appropriations accounts.  Prior to the DATA Act, outlays on a government-wide basis have not been reported by program activity or object class.  However, OMB publishes outlays by appropriations account on Line 3020 of the SF 133 _Reports on Budget Execution and Budgetary Resources_.  Treasury publishes outlays in its _Treasury Combined Statement of Receipts, Outlays, and Balances of the United States Government_.  In addition, other publications show government-wide outlays (though not by appropriations account, program activity, or object class.)
 
 ## Context
 
@@ -45,7 +45,7 @@ b. Agencies will continue to report outlays using the definition in OMB Circular
 
 ## Recommended Definitions for Transparency Reporting
 
-<table>
+<table class='table-bordered'>
   <thead>
     <tr>
       <th scope="col">Recommended Data Element Name</th>

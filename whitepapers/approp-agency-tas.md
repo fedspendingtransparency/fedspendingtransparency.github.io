@@ -1,7 +1,7 @@
 ---
 published: true
 permalink: /whitepapers/approp-agency-tas/
-layout: hero
+layout: article
 filename: approp-agency-tas.md
 title: Treasury Account Symbol, Appropriations Account, and Agency
 ---
@@ -11,7 +11,7 @@ title: Treasury Account Symbol, Appropriations Account, and Agency
 
 Thank you for contributing your feedback on this data element—your input and insight was helpful as we worked to finalize the standards. Please go [here](https://max.gov/maxportal/assets/public/offm/DataStandardsFinal.htm "Federal Spending Transparency Standards") to see the data definitions for these elements in their final form.
 
-<table>
+<table class='table-bordered'>
   <thead>
     <tr>
       <th scope ="col">Data Element Name</th>
@@ -36,15 +36,17 @@ Thank you for contributing your feedback on this data element—your input and i
   </tr>
 </table>
 
+
+
 ## Response to Public Feedback (August 2015)
 
-This paper has been edited based on feedback provided for the Funding Agency white paper [here](/whitepapers/fundingagency/), which received 8 posts from 7 individuals [here](https://github.com/fedspendingtransparency/fedspendingtransparency.github.io/issues/68), and OMB and Treasury received feedback from the Government Accountability Office (GAO). The majority of the posts brought up concerns about the clarity and specificity of these papers and the definitions; and concerns that using different code lists in different communities would create data quality issues. 
+This paper has been edited based on feedback provided for the Funding Agency white paper [here]({{ site.baseurl }}/whitepapers/fundingagency/), which received 8 posts from 7 individuals [here](https://github.com/fedspendingtransparency/fedspendingtransparency.github.io/issues/68), and OMB and Treasury received feedback from the Government Accountability Office (GAO). The majority of the posts brought up concerns about the clarity and specificity of these papers and the definitions; and concerns that using different code lists in different communities would create data quality issues. 
 
-To address the feedback posted, context has been added to this paper and the paper for [Funding Agency Name and Code](/whitepapers/fundingagency/), which now also contains the data elements Awarding Agency Name and Code. In addition, to address data quality concerns, OMB and Treasury will be working with agencies to develop validation rules. Additional details about proposed management of agency hierarchy can be found in the paper for Sub Tier Agency and Office [here](/whitepapers/sub-tier-agency/). For award level DATA Act reporting, agencies will report both the agency that provided the preponderance of the fund for the award ([Funding Agency](/whitepapers/fundingagency/)) and the agency that interacts with the recipient to make the award ([Awarding Agency](/whitepapers/fundingagency/)), using the CGAC standard described in the paper below. For the first time, the financial, procurement, and financial assistance communities will be using the same names and codes to describe federal agencies, which will improve data quality, consistency, and transparency. 
+To address the feedback posted, context has been added to this paper and the paper for [Funding Agency Name and Code]({{ site.baseurl }}/whitepapers/fundingagency/), which now also contains the data elements Awarding Agency Name and Code. In addition, to address data quality concerns, OMB and Treasury will be working with agencies to develop validation rules. Additional details about proposed management of agency hierarchy can be found in the paper for Sub Tier Agency and Office [here]({{ site.baseurl }}/whitepapers/sub-tier-agency/). For award level DATA Act reporting, agencies will report both the agency that provided the preponderance of the fund for the award ([Funding Agency]({{ site.baseurl }}/whitepapers/fundingagency/)) and the agency that interacts with the recipient to make the award ([Awarding Agency]({{ site.baseurl }}/whitepapers/fundingagency/)), using the CGAC standard described in the paper below. For the first time, the financial, procurement, and financial assistance communities will be using the same names and codes to describe federal agencies, which will improve data quality, consistency, and transparency. 
 
 ## Background
 
-Executive branch agencies carry out programs financed through approximately 7,500 appropriations accounts.  Each appropriations account is established by Congress and includes an agency, account name, and specific time frame in which to incur [obligations](/whitepapers/obligation/) and [outlays](/whitepapers/outlay/).  While statutory language does not include numeric codes for agencies and accounts, the Treasury Department in consultation with the Office of Management Budget establishes a Treasury Account Symbol (TAS) for each and every appropriations account Congress creates.  Using numeric codes facilitates tracking and reporting across the government.
+Executive branch agencies carry out programs financed through approximately 7,500 appropriations accounts.  Each appropriations account is established by Congress and includes an agency, account name, and specific time frame in which to incur [obligations]({{ site.baseurl }}/whitepapers/obligation/) and [outlays]({{ site.baseurl }}/whitepapers/outlay/).  While statutory language does not include numeric codes for agencies and accounts, the Treasury Department in consultation with the Office of Management Budget establishes a Treasury Account Symbol (TAS) for each and every appropriations account Congress creates.  Using numeric codes facilitates tracking and reporting across the government.
 
 ## Context
 
@@ -64,7 +66,7 @@ An appropriations account is represented by the Treasury Appropriation Fund Symb
 
 The table below shows the component pieces of TAFS and TAS:
 
-<table>
+<table class='table-bordered'>
   <thead>
     <tr>
       <th scope="col">Component</th>
@@ -135,7 +137,7 @@ OMB Circular A-11 Appendix C is the authoritative source for a list of agency id
 
 ## Final Definitions for Transparency Reporting
 
-<table>
+<table class='table-bordered'>
   <thead>
     <tr>
       <th scope="col">Data Element Name</th>

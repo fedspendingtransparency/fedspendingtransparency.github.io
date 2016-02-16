@@ -1,7 +1,7 @@
 ---
 published: true
 permalink: /whitepapers/sub-tier-agency/
-layout: hero
+layout: article
 filename: sub-tier-agency.md
 title: Sub Tier Agency
 ---
@@ -9,7 +9,7 @@ title: Sub Tier Agency
 # Element: Sub Tier Agency and Office Information
 
 
-<table>
+<table class='table-bordered'>
   <thead>
     <tr>
       <th scope ="col">Data Element Name</th>
@@ -59,7 +59,7 @@ The data elements in this paper will provide additional transparency into organi
 
 This paper addresses the set of data elements that identify a sub tier agency or “level 2” within a federal department or independent agency, and an office or “level n.”  The focus is in two key areas for transparency and data-driven decision making, (1) the ability to identify from where the funds on an award originate and (2) the ability to identify what organization awarded those funds.
 
-The Digital Accountability and Transparency Act of 2014 (DATA Act) refers to section 105 of title 5, United States Code, for the definition of a “federal agency”.  It means an Executive department (one of the 15 “Department of” organizations), government corporation (a corporation owned or controlled by the Government of the United States), or an independent establishment (an establishment in the executive branch not included above).  A federal agency can be thought of as a “level 1” organization within the Executive Branch.  The definition for federal agency is provided in a separate paper [(Treasury Account Symbol (excluding Sub-Account), Appropriations Account, and Agency)](/whitepapers/approp-agency-tas/).  
+The Digital Accountability and Transparency Act of 2014 (DATA Act) refers to section 105 of title 5, United States Code, for the definition of a “federal agency”.  It means an Executive department (one of the 15 “Department of” organizations), government corporation (a corporation owned or controlled by the Government of the United States), or an independent establishment (an establishment in the executive branch not included above).  A federal agency can be thought of as a “level 1” organization within the Executive Branch.  The definition for federal agency is provided in a separate paper [(Treasury Account Symbol (excluding Sub-Account), Appropriations Account, and Agency)]({{ site.baseurl }}/whitepapers/approp-agency-tas/).  
 
 There are no explicit requirements for publicly reporting obligations or expenditures of federal organizations at “level 2” or below.  The federal Funding Accountability and Transparency Act (FFATA) of 2006 requires agencies to report the funding agency for each award, but not organizational units below that agency. Increased transparency as well as reaching data-driven management decisions necessitates availability of data at lower levels than the top level of the Department or independent agency.   This will allow the public and other agencies to see the agency making the award as well as the source of funding used. 
 
@@ -109,7 +109,7 @@ Recommended Business Process
 <sup>1</sup>The National Institute of Standards and Technology (NIST) withdrew the Federal Information Processing Standards (FIPS) codes referenced above (FIPS 95-2, Codes for the Identification of Federal and Federally Assisted Organizations) in 2008.  A second publication, NIST Special Publication 800-87, Codes for Identification of Federal and Federally-Assisted Organizations, provides similar codes but has not been updated since 2008.  Organizations established after 2008 (such as the Consumer Financial Protection Bureau) are not in SP 800-87.  The FIPS 95-2 and SP 800-87 codes provided the basis of the FPDS-NG table of agency codes, which is updated by GSA and so includes new agencies.
 
 ##Final Definitions for Transparency Reporting
-<table>
+<table class='table-bordered'>
   <thead>
     <tr>
       <th scope="col">Data Element Name</th>
