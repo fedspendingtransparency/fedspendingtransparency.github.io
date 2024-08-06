@@ -26,19 +26,3 @@ The transparency efforts of FFATA were expanded with the enactment of the [Digit
 To assist agencies with implementation, OMB and Treasury created a playbook of eight recommendations that, if followed together, help agencies fulfill the requirements of the DATA Act by leveraging existing capabilities and streamlining implementation efforts. 
 
 <img width="800" src="{{ site.baseurl }}/assets/img/playbook.png" title="agency implementation playbook summary" /> 
-
-
-#### Agile Development Methodology
-
-The Data Transparency team uses an Agile development/scrum methodology to build, assess, and iterate the project throughout the development lifecycle. Agile is a software development methodology characterized by short build-cycles, an emphasis on working software, and responsiveness to evolving requirements and solutions.
-
-We work in two-week sprints with each sprint focused on completing discrete, time-boxed tasks with clear acceptance criteria. At the end of the sprint, the team participates in an evaluation and review of the work accomplished and then plans for the tasks (“user stories” or “issues”) for the next sprint.
-
-This two-week cadence continues throughout the lifecycle.
-
-In addition, the team participates in a stand-up meetings to review the previous work and to report any challenges, questions, or blockers so they can be addressed and resolved quickly.
-
-The Agile/scrum process is open and transparent: stakeholders can follow the progress of the tasks in the development and publication work streams on our [JIRA](https://federal-spending-transparency.atlassian.net/secure/BrowseProjects.jspa?selectedCategory=all&selectedProjectType=all){:target="_blank"} site.
-
-Operating in the spirit of transparency, we use GitHub repositories for all our code. This external communication platform allows both internal and external stakeholders to monitor the progress of the Data Transparency efforts. To provide feedback on the code, please file an issue on the relevant GitHub repository. You can find a list of all repositories [here](https://github.com/fedspendingtransparency){:target="_blank"}.
-
