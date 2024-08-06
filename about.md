@@ -42,12 +42,3 @@ The Agile/scrum process is open and transparent: stakeholders can follow the pro
 
 Operating in the spirit of transparency, we use GitHub repositories for all our code. This external communication platform allows both internal and external stakeholders to monitor the progress of the Data Transparency efforts. To provide feedback on the code, please file an issue on the relevant GitHub repository. You can find a list of all repositories [here](https://github.com/fedspendingtransparency){:target="_blank"}.
 
-#### User-Centered Design Process
-
-The Data Transparency Team strives to have a deep understanding of who will be using the USAspending.gov site and its related data upload features. This understanding is built on town-hall meetings, workshops, and user interviews reaching the public, industry, and federal agencies. Our aim is to understand the users’ context when using these products, their motivations, requirements, and goals. This understanding constantly evolves and informs the development process.
-
-To help make our user research digestible and actionable, we developed a set of “Personas”: snapshots of user types that capture and organize information that can inform design decisions. Examples of our latest personas can be found on the User-Centered Design page. As more research is conducted and designs are tested, they will evolve and become more accurate.
-
-Finally, we test. We have developed a comprehensive plan for conducting recurring usability testing to help us identify potential design concerns. Initially, usability testing focused on agency users. Later, the focus expanded to “data consumers,” including grant recipients, researchers/reporters, and interested citizens.
-
-Usability testing will continue in a regular cadence in sync with the development cycles of our Agile development environment.  More information on our user-centered design process can be found [here]({{ site.baseurl }}/user-centered-design/).
