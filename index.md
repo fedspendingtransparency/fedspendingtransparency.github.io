@@ -25,7 +25,7 @@ page: homepage
     </div>
 </div>
 
-[**About:**]({{ site.baseurl }}/index.html/) Learn more about the implementation of the DATA Act 
+[**About:**]({{ site.baseurl }}/about/) Learn more about the implementation of the DATA Act 
 
 [**Data Model:** ]({{ site.baseurl }}/data-model/) Read about the Government Spending Data Model and its assoicated data elements
 
