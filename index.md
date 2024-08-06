@@ -20,23 +20,3 @@ page: homepage
 
     </div>
 </div>
-
-<br> tag
-
-<div class="row">
-    <div class="col-md-12">
-        <div class="panel panel-default">
-            <div class="panel-heading">
-                <h3>Data Model</h3>
-            </div>
-            <div class="panel-body">
-                <div class="media">
-                    <div class="media-left">
-                        <span class="glyphicon glyphicon-list-alt"></span>
-                    </div>
-                    <div class="media-body">
-                        <p>USAspending.gov relies on hundreds of distinct data elements to tell the story of how federal dollars are spent.</p> 
-                         <p><a href="https://fiscal.treasury.gov/data-transparency/GSDM-current.html" title="GSDM">GSDM</a>: The Governmentwide Spending Data Model (GSDM) organizes these elements into a structure that further defines, groups, and relates them to each other.  
-                           
-                            <p><a href="https://resources.data.gov/standards/catalog/daims/" title="DAIMS">DAIMS</a>: The DATA Act Information Model Schema (DAIMS) is the authoritative source for the terms, definitions, formats, and structures for hundreds of distinct data elements that tell the story of how federal dollars are spent. DAIMS gives federal agencies guidance about what data to report to Treasury, where to get that data, and how to submit it.</p>
-                   
