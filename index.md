@@ -20,10 +20,10 @@ page: homepage
 
         <p><a href="https://www.youtube.com/watch?v=X26IGyZ-SUY"><img style="width:600px;" src="{{ site.baseurl }}/assets/img/DATA_Act_Video.jpg" title="DATA Act Video"  /></a></p>
 
+        <h2 class="mt-0">Explore Further</h2>
+
     </div>
 </div>
-
-### Explore Further
 
 [**About:**](https://christreasury.github.io/fedspendingtransparencydraft.github.io/about/https://christreasury.github.io/fedspendingtransparencydraft.github.io/index.html) Learn more about the implementation of the DATA Act 
 
