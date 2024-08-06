@@ -16,7 +16,7 @@ page: homepage
 
         <p>This space is designed to openly share our <em><strong>process</strong></em> for meeting the data transparency requirements of the DATA Act. Our sister site — <a href="https://usaspending.gov/#/">USAspending.gov</a> — is where you will find the <em><strong>results</strong></em> of this work:  data you can search, view, and download. We invite you - the public - to interact with our site and share your feedback and questions on our <a href="https://onevoicecrm.my.site.com/usaspending/s/"> Community Page</a>!</p>
 
-        <p>Operating in the spirit of transparency, we use GitHub repositories for all our code. This external communication platform allows both internal and external stakeholders to monitor the progress of the Data Transparency efforts. To provide feedback on the code, please file an issue on the relevant GitHub repository. You can find a list of all repositories  <a href="https://github.com/fedspendingtransparency"> here</a>!</p>
+        <p>Operating in the spirit of transparency, <b>we use GitHub repositories for all our code</b>. This external communication platform allows both internal and external stakeholders to monitor the progress of the Data Transparency efforts. To provide feedback on the code, please file an issue on the relevant GitHub repository. You can find a list of all repositories  <a href="https://github.com/fedspendingtransparency"> here</a>!</p>
 
         <p><a href="https://www.youtube.com/watch?v=X26IGyZ-SUY"><img style="width:600px;" src="{{ site.baseurl }}/assets/img/DATA_Act_Video.jpg" title="DATA Act Video"  /></a></p>
 
