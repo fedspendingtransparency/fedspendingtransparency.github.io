@@ -21,6 +21,14 @@ Our user-centered design process starts with user research (learn), applies it t
 
 Below are some specific examples of our work.  For more about the user-centered design process in general, visit [www.usability.gov](http://www.usability.gov){:target="_blank"}.
 
+## Agile Development Methodology
+
+The team applies this cycle using an Agile development/scrum methodology. Agile is a software development methodology characterized by short build-cycles, an emphasis on working software, and responsiveness to evolving requirements and solutions.
+
+We work in two/three-week sprints with each sprint focused on completing discrete, time-boxed tasks with clear acceptance criteria. At the end of the sprint, the team participates in an evaluation and review of the work accomplished and then plans for the tasks (“user stories” or “issues”) for the next sprint.
+
+The Agile/scrum process is open and transparent: stakeholders can follow the progress of the tasks in the development and publication work streams on our [JIRA](https://federal-spending-transparency.atlassian.net/secure/BrowseProjects.jspa?selectedCategory=all&selectedProjectType=all){:target="_blank"} site.
+
 
 ## Learn (User Research)
 
