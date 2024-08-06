@@ -40,8 +40,8 @@ Thank you for helping us improve government data. Below are ways you can stay up
             <div class="media">
                <div class="media-body">
                   <p><strong>Web Site</strong> -- Visit <a href="https://usaspending.gov/#/">USAspending.gov</a> to see the official source of accessible, searchable and reliable spending data for the U.S. government.</p>
-                  <p><strong>Office Hours Call</strong> -- Every First Thursday of the month, Treasury and OMB staff provide updates and take agencies' questions on a conference call.</p>
-                  <p><strong>Tech Thursdays</strong> -- We periodically hold informal working sessions for agencies to engage directly with the Data Transparency Team and ask questions regarding the Governmentwide Spending Data Model, USAspending, and the Data Broker. This is a forum for individuals to meet and collaborate with one another and share best practices. To learn more, <a href="mailto:DATAPMO@fiscal.treasury.gov">contact the Data Transparency Team</a>.</p>
+                  <p><strong>Office Hours Call</strong> -- Every month, Treasury and OMB staff provide updates and take agencies' questions on a conference call. To learn more, <a href="mailto:DATAPMO@fiscal.treasury.gov">contact the Data Transparency Team</a>.</p>
+                  <p><strong>Weekly Tech Day</strong> -- We periodically hold informal working sessions for agencies to engage directly with the Data Transparency Team and ask questions regarding the Governmentwide Spending Data Model, USAspending, and the Data Broker. This is a forum for individuals to meet and collaborate with one another and share best practices. To learn more, <a href="mailto:DATAPMO@fiscal.treasury.gov">contact the Data Transparency Team</a>.</p>
                   <p><strong>More Resources:</strong></p>
                   <ul>
                      <li><a href="https://fiscal.treasury.gov/data-transparency" target="_blank">Fiscal Service Transparency Site</a></li>
