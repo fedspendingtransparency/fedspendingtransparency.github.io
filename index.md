@@ -25,10 +25,10 @@ page: homepage
     </div>
 </div>
 
-[**About:**](https://christreasury.github.io/fedspendingtransparencydraft.github.io/about/https://christreasury.github.io/fedspendingtransparencydraft.github.io/index.html) Learn more about the implementation of the DATA Act 
+[**About:**]({{ site.baseurl }}/index.html/) Learn more about the implementation of the DATA Act 
 
-[**Data Model:** ](https://christreasury.github.io/fedspendingtransparencydraft.github.io/data-model/)Read about the Government Spending Data Model and its assoicated data elements
+[**Data Model:** ]({{ site.baseurl }}/data-model/) Read about the Government Spending Data Model and its assoicated data elements
 
-[**User-Centered Design:**](https://christreasury.github.io/fedspendingtransparencydraft.github.io/user-centered-design/) Take a look at how the Data Transparency team iteratively improves USA Spending 
+[**User-Centered Design:**]({{ site.baseurl }}/user-centered-design/) Take a look at how the Data Transparency team iteratively improves USA Spending 
 
-[**Get Involved:**](https://christreasury.github.io/fedspendingtransparencydraft.github.io/get-involved/) Find ways to get involved and help us improve government data
+[**Get Involved:**]({{ site.baseurl }}/get-involved/) Find ways to get involved and help us improve government data
