@@ -15,7 +15,7 @@ page: data-model
 
 The Governmentwide Spending Data Model (GSDM), formerly the DATA Act Information Model Schema (DAIMS), gives an overall view of the hundreds of distinct data elements used to tell the story of how federal dollars are spent. It includes artifacts that provide technical guidance for federal agencies about what data to report to Treasury including the authoritative sources of the data elements and the submission format. The GSDM also provides clarity on how the public can better understand the inherent complexity of the data. More information can be found on the Fiscal Service [GSDM](https://fiscal.treasury.gov/data-transparency/GSDM-current.html) website.
 
-## Standardized Federal Spending Data Elements
+### Standardized Federal Spending Data Elements
 
 **The lists on this page contain two types of standardized federal spending data elements:**
 
@@ -28,7 +28,7 @@ The data elements are grouped by category; each short list represents a differen
 
 The finalized original 57 data element concepts and definitions are located [here](https://max.gov/datastandards). As of late 2021, OMB has stated that they no longer plan to update the list, though this could change in the future.
 
-### Awardee and Recipient Entity Information
+#### Awardee and Recipient Entity Information
 
 This list includes information about recipients and awardees of federal funds. Please note that these elements will be standardized across the different types of awards (grants, contracts, etc.).
 
@@ -93,7 +93,7 @@ This list includes information about recipients and awardees of federal funds. P
 </table>
 
 
-### Award Amount Information
+#### Award Amount Information
 
 This list includes elements used to describe the amount of a certain award.
 
@@ -133,7 +133,7 @@ This list includes elements used to describe the amount of a certain award.
 </table>
 
 
-### Award Characteristic Information
+#### Award Characteristic Information
 
 These elements describe the different characteristics each award possesses – for example, its transaction code, its Award Identification (ID) Number, and so on.
 
@@ -258,7 +258,7 @@ These elements describe the different characteristics each award possesses – f
 </table>
 
 
-### Funding Entity Information
+#### Funding Entity Information
 
 These data elements describe characteristics of the entity that provided funding for an award.
 
@@ -303,7 +303,7 @@ These data elements describe characteristics of the entity that provided funding
 </table>
 
 
-### Awarding Entity Information
+#### Awarding Entity Information
 
 Elements on this list describe awarding entities – those that presented the awardee with the funding.
 
@@ -348,7 +348,7 @@ Elements on this list describe awarding entities – those that presented the aw
 </table>
 
 
-### Account Level Information
+#### Account Level Information
 
 This list features elements that describe the accounts from which the awards are funded.
 
