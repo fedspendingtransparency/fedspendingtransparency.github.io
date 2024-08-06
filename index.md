@@ -20,3 +20,8 @@ page: homepage
 
     </div>
 </div>
+
+* **About:** Learn more about the implementation of the DATA Act 
+* **Data Model:** Read about the Government Spending Data Model and its assoicated data elements
+* **User-Centered Design:** Take a look at how the Data Transparency team iteratively improves USA Spending 
+* **Get Involved:** Find ways to get involved and help us improve government data
