@@ -29,8 +29,8 @@ page: homepage
 
 [**About:**]({{ site.baseurl }}/about/) Learn more about the pieces of legislation leading to the implementation of the DATA Act
 
-[**Data Model:** ]({{ site.baseurl }}/data-model/) Read more about how the Data Model evolved into the Government Spending Data Model (GSDM) and its associated data elements
+[**Data Model and Standards:** ]({{ site.baseurl }}/data-model/) Read more about how the Data Model evolved into the Government Spending Data Model (GSDM) and its associated data elements
 
-[**User-Centered Design:**]({{ site.baseurl }}/user-centered-design/) Take a look at how the Data Transparency team iteratively improves USA Spending 
+[**User-Centered Design and Agile:**]({{ site.baseurl }}/user-centered-design/) Take a look at how the Data Transparency team iteratively improves USA Spending 
 
-[**Get Involved:**]({{ site.baseurl }}/get-involved/) Find ways to get involved and help us improve government data
+[**Get Involved and Helpful Links:**]({{ site.baseurl }}/get-involved/) Find ways to get involved and help us improve government data
