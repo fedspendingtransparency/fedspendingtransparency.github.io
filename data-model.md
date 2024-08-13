@@ -3,7 +3,7 @@ published: true
 permalink: /data-model/
 layout: visualization
 filename: data-model.md
-title: Data Model and Standards
+title: Data Model
 page: data-model
 ---
 
