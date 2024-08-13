@@ -3,7 +3,7 @@ published: true
 permalink: /user-centered-design/
 layout: article
 filename: user-centered-design.md
-title: User-Centered Design
+title: User-Centered Design and Agile
 ---
 
 
@@ -18,9 +18,6 @@ Our user-centered design process starts with user research (learn), applies it t
 
 <img class="learn-test-make" src="{{ site.baseurl }}/assets/graphics/learn-test-make.svg">
 
-
-Below are some specific examples of our work.  For more about the user-centered design process in general, visit [www.usability.gov](http://www.usability.gov){:target="_blank"}.
-
 ## Agile Development Methodology
 
 The team applies this cycle using an Agile development/scrum methodology. Agile is a software development methodology characterized by short build-cycles, an emphasis on working software, and responsiveness to evolving requirements and solutions.
@@ -29,12 +26,13 @@ We work in two/three-week sprints with each sprint focused on completing discret
 
 The Agile/scrum process is open and transparent: stakeholders can follow the progress of the tasks in the development and publication work streams on our [JIRA](https://federal-spending-transparency.atlassian.net/secure/BrowseProjects.jspa?selectedCategory=all&selectedProjectType=all){:target="_blank"} site.
 
+Below are some specific examples of our work.  For more about the user-centered design process in general, visit [www.usability.gov](http://www.usability.gov){:target="_blank"}.
 
 ## Learn (User Research)
 
 Through meetings, workshops, analytics, and user interviews, the Data Transparency Team works to learn about users’ needs, including what they want from the data, their technical environments (e.g., browsers, other software used), and their “pain points” with the current system. 
 
-From that, we have developed a set of targeted user types, called “Personas.” Personas are visual encapsulations of research findings that inform the design process. **They capture real user perceptions, experiences, and quotations, which we draw on to build better software.** Photos and personal details, however, are merely representative to help make them more real and relatable.
+From that, we have developed a set of targeted user types, called “Personas.” Personas are visual encapsulations of research findings that inform the design process. **They capture real user perceptions, experiences, and quotations, which we draw on to build better software.** Photos and personal details, however, are merely representative to help make them more real and relatable. These personas can change over time.
 
 #### Below are eight examples of our current personas:
 
