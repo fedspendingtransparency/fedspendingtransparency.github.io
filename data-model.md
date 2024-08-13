@@ -18,7 +18,6 @@ The Governmentwide Spending Data Model (GSDM), formerly the DATA Act Information
 In the process to develop and mature this data model, initial collaboration with internal and external stakeholders began with a series of white papers and public feedback to gain consensus on the standardization of key spending data elements. 
 
 The elements listed below represent the original consensus the federal community reached during the original DATA Act implementation. Since then, the community continues to iterate on these elements to improve standardization and overall clarity. Additional data elements will continue to be added as well, to continue improving transparency reporting. For the current data model element list visit the [GSDM](https://fiscal.treasury.gov/data-transparency/GSDM-current.html) website described above.
-
 #### Awardee and Recipient Entity Information
 
 This list includes information about recipients and awardees of federal funds. Please note that these elements will be standardized across the different types of awards (grants, contracts, etc.).
