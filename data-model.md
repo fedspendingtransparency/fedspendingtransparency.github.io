@@ -3,7 +3,7 @@ published: true
 permalink: /data-model/
 layout: visualization
 filename: data-model.md
-title: Data Model
+title: Data Model and Standards
 page: data-model
 ---
 
@@ -15,18 +15,9 @@ page: data-model
 
 The Governmentwide Spending Data Model (GSDM), formerly the DATA Act Information Model Schema (DAIMS), gives an overall view of the hundreds of distinct data elements used to tell the story of how federal dollars are spent. It includes artifacts that provide technical guidance for federal agencies about what data to report to Treasury including the authoritative sources of the data elements and the submission format. The GSDM also provides clarity on how the public can better understand the inherent complexity of the data. More information can be found on the Fiscal Service [GSDM](https://fiscal.treasury.gov/data-transparency/GSDM-current.html) website.
 
-### Standardized Federal Spending Data Elements
+In the process to develop and mature this data model, initial collaboration with internal and external stakeholders began with a series of white papers and public feedback to gain consensus on the standardization of key spending data elements. 
 
-**The lists on this page contain two types of standardized federal spending data elements:**
-
-1. Data elements that were collected under the Federal Funding Accountability and Transparency Act (FFATA) and featured on USAspending.gov prior to the revisions to FFATA in the DATA Act of 2014.
-2. Data elements that were added based on the requirements of the DATA Act of 2014 and that have been featured on USAspending since it relaunched in 2017 pursuant to DATA Act requirements.
-
-The elements listed represent the original consensus the federal community reached during the original DATA Act implementation. Additional data elements will continue to be added to improve transparency reporting. For the current data model element list visit [Data Transparency](https://fiscal.treasury.gov/data-transparency/DAIMS-current.html).  
-
-The data elements are grouped by category; each short list represents a different category. There is a white paper associated with each element linked to in the Data Element Name column, along with a separate link to the relevant GitHub issue in the Provide Feedback column. The latter contains input on the white papers posted during the initial public comment period. Thank you to all who posted responses to these papers and provided input on these data elements.
-
-The finalized original 57 data element concepts and definitions are located [here](https://max.gov/datastandards). As of late 2021, OMB has stated that they no longer plan to update the list, though this could change in the future.
+The elements listed below represent the original consensus the federal community reached during the original DATA Act implementation. Since then, the community continues to iterate on these elements to improve standardization and overall clarity. Additional data elements will continue to be added as well, to continue improving transparency reporting. For the current data model element list visit the [GSDM](https://fiscal.treasury.gov/data-transparency/GSDM-current.html) website described above.
 
 #### Awardee and Recipient Entity Information
 
