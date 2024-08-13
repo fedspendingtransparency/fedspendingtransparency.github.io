@@ -32,7 +32,7 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Data Model
+ - title: Data Model and Standards
    url: /data-model
  #- title: DAIMS v1.2
  #  url: /DAIMS-v1.2
