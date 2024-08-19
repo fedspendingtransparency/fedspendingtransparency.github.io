@@ -32,20 +32,18 @@ navigation:
    url: /index.html
  - title: About
    url: /about
- - title: Data Model
+ - title: Data Model and Standards
    url: /data-model
  #- title: DAIMS v1.2
  #  url: /DAIMS-v1.2
  #- title: DAIMS Schema Files
  #  url: /daims-schema-files
- - title: User-Centered Design
+ - title: User-Centered Design and Agile
    url: /user-centered-design
- - title: Get Involved
+ - title: Get Involved and Helpful Links
    url: "/get-involved"
  #- title: DATA Act-ivity
  #  url: "/act-ivity" 
- - title: Fiscal Data
-   url: "/data-lab"
 
  # - title: Discuss
  #   url: "https://github.com/fedspendingtransparency/fedspendingtransparency.github.io/issues"
